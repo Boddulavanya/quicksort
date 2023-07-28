@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\bin\Debug\ConAppQuickSort.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\bin\Debug\ConAppQuickSort.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\bin\Debug\ConAppQuickSort.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\obj\Debug\ConAppQuickSort.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\obj\Debug\ConAppQuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\obj\Debug\ConAppQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\obj\Debug\ConAppQuickSort.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppQuickSort\ConAppQuickSort\obj\Debug\ConAppQuickSort.pdb
